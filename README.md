@@ -67,7 +67,7 @@ A comprehensive Applicant Tracking System designed to streamline recruitment wor
 
 ```bash
 # Clone repository
-git clone [https://github.com/GunaSathwika/jobapplications-tracking-system.git]
+git clone https://github.com/Itsmesrinu/JOBAPPLICATIONS-TRACKING-SYSTEM.git
 cd application-tracking-system
 
 # Install server dependencies
