@@ -1,1 +1,0 @@
-# jobapplications-tracking-system
