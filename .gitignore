@@ -3,6 +3,7 @@
 .env
 README2.MD
 # dependencies
+servsr/.env.example
 server/node_modules
 client/node_modules
 /.pnp
